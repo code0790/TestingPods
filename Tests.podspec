@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.version      = "0.0.1"
   spec.summary      = "A short description of Tests."
   spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-  spec.homepage         = 'https://github.com/tonymillion/Reachability'
+  spec.homepage         = 'https://github.com/code0790/TestingPods.git'
   spec.authors          = { 'navpreet' => 'navpreetsingh0790@gmail.com' }
 
   
